@@ -1,0 +1,19 @@
+{
+    "ancho_ventana": 600,
+    "alto_ventana": 720,
+    "imagenes": {
+        "ruta_fondo": ["imagenes","Background.jpg"],
+        "ruta_logo": ["sprites","Logo","Logo_transparente.png"],
+        "texto_jugadores": ["imagenes","Jugadores_text.png"],
+        "texto_votar": ["imagenes","Votar_text.png"],
+        "texto_sj": ["imagenes","SJ_text.png"],
+        "texto_ing": ["imagenes","ING_text.png"],
+        "texto_camino": ["imagenes","Camino_text.png"],
+        "jugadores_juego": ["imagenes","Jugadores_juego_text.png"],
+        "flecha": ["imagenes","Arrow.png"],
+        "mapa_ing": ["sprites", "Mapas", "Mapa ING.png"],
+        "mapa_sj": ["sprites", "Mapas", "Mapa SJ.png"]
+    },
+    "host": "localhost",
+    "port": 8888
+}
